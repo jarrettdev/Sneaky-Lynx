@@ -1,4 +1,4 @@
-# run mitmdump -s acquire_xhr_dump.py
+# run mitmdump -s xhr_scrape.py
 import json
 import os
 from urllib.parse import urlparse
