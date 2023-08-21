@@ -1,0 +1,17 @@
+Parse the block of text into a json item that has the following fields. If you can't determine how to fill out a field, just enter 'NA'. If there are commas in a number, remove the commas.
+
+1. **Username**: The account's username.
+2. **Profile Image URL**: The URL of the account's profile image.
+2. **Verification Status**: A field indicating if the account is verified.
+3. **Follow Status**: An indication of whether the account is being followed.
+4. **Number of Posts**: Total posts made by the account.
+5. **Number of Followers**: Total followers of the account.
+6. **Number of Following**: Total number of accounts that this account is following.
+7. **Full Name**: The full name of the account holder.
+8. **Title**: Professional title, in this case, Board Certified Nurse Practitioner.
+9. **Location**: Where the account holder is based, e.g., Houston.
+10. **Services**: A list of services offered (Botox, Lip Filler, etc.)
+11. **Text Contact**: Text contact number.
+12. **Call Contact**: Calling contact number.
+13. **Website Link**: Any associated link.
+14. **Followed by**: Other users following this account.

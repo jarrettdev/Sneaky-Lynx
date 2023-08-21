@@ -1,0 +1,13 @@
+{
+  "name": "Youtube Livechat Comment Extractor",
+  "multiclick": [],
+  "elements": {
+    "header": "",
+    "image": ""
+  },
+  "repeating_elements": [],
+  "xhr_urls": [
+    "https://www.youtube.com/youtubei/v1/live_chat/get_live_chat?"
+  ],
+  "downloadFileName": "test_meta.txt"
+}
